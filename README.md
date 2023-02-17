@@ -1,2 +1,2 @@
-# KEX-Neuralt N-tverk
+# KEX-Neuralt
 Neuralt-Nätverk
